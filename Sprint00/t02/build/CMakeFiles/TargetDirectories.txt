@@ -1,0 +1,3 @@
+/Users/skravets/Desktop/c++/Sprint00/t02/build/CMakeFiles/rebuild_cache.dir
+/Users/skravets/Desktop/c++/Sprint00/t02/build/CMakeFiles/edit_cache.dir
+/Users/skravets/Desktop/c++/Sprint00/t02/build/CMakeFiles/main.dir

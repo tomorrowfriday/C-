@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/skravets/Desktop/c++/Sprint00/t02/main.cpp
+walletManager.h
+/Users/skravets/Desktop/c++/Sprint00/t02/walletManager.h
+
+/Users/skravets/Desktop/c++/Sprint00/t02/walletManager.h
+iostream
+-
+string
+-
+
