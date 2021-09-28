@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/skravets/Desktop/c++/Sprint00/t02/main.cpp" "/Users/skravets/Desktop/c++/Sprint00/t02/build/CMakeFiles/main.dir/main.cpp.o"
+  "/Users/skravets/Desktop/C++/Sprint00/t02/main.cpp" "/Users/skravets/Desktop/C++/Sprint00/t02/build/CMakeFiles/main.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
