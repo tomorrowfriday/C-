@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/skravets/Desktop/Ucode/C++/Git/C-/Sprint00/t03/castSpells.cpp
+
+/home/skravets/Desktop/Ucode/C++/Git/C-/Sprint00/t03/castSpells.h
+iostream
+-
+
+/home/skravets/Desktop/Ucode/C++/Git/C-/Sprint00/t03/main.cpp
+castSpells.h
+/home/skravets/Desktop/Ucode/C++/Git/C-/Sprint00/t03/castSpells.h
+
